@@ -1,2 +1,3 @@
 # PT Repository
-Learning / tutorial projects in various fields: AI, ML, BlockChain, Sound Processing
+Learning / tutorial projects in various fields: AI, ML, BlockChain, Sound Processing...
+Please check the branched for further information.
