@@ -1,2 +1,2 @@
-# peteritom
-Peteritom's own repo
+# BlockChain studies
+Example projects around topic BlockChain
