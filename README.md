@@ -1,3 +1,2 @@
-# PT Repository
-Learning / tutorial projects in various fields: AI, ML, BlockChain, Sound Processing...
-Please check the branched for further information.
+# Deep Learning + Audio Processing
+Followed tutorials from Valerio Velardo on youtube: https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ
