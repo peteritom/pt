@@ -1,4 +1,1 @@
-# PT Repository
-Learning / tutorial projects in various fields: AI, ML, Deep Learning, BlockChain, Audio Processing...
-
-Please check the branches for further information.
+Under weather folder edit the views.py with your own OpenWeatherMap API Key.
